@@ -1,5 +1,5 @@
-# Text Statistics
-A simple webpage to give basic statistics on text, and to work with selection of the same. I built this because I recently faced an issue while experimenting with [cTakes Parser](http://wiki.apache.org/tika/cTAKESParser). A quick introduction to what cTakes Parser does is, is that it searches for various terms, like symptoms, dates, medical terms and highlights them to the user. Now, when you run cTakes parser on a huge document, its output is in [this](http://wiki.apache.org/tika/cTAKESParser#Putting_it_all_together:_Tika-App) format.
+# Text Analysis
+A simple webpage for basic text analysis, and to work with selection of the same. I built this because I recently faced an issue while experimenting with [cTakes Parser](http://wiki.apache.org/tika/cTAKESParser). A quick introduction to what cTakes Parser does is, is that it searches for various terms, like symptoms, dates, medical terms and highlights them to the user. Now, when you run cTakes parser on a huge document, its output is in [this](http://wiki.apache.org/tika/cTAKESParser#Putting_it_all_together:_Tika-App) format.
 
 For instance, this is one line in the output
 ```
